@@ -1,6 +1,6 @@
 console.log(soma(3, 4));
-//console.log(sub(3, 4));  //erro: sub is not defined
-//console.log(mult(3, 4)); //erro: mult is not defined
+//console.log(sub(3, 4));   //erro: sub is not defined
+//console.log(mult(3, 4));  //erro: mult is not defined
 
 //function declaration
 function soma(x, y) {
